@@ -26,7 +26,7 @@ jar -jar inventory-0.0.1-SNAPSHOT.jar
 Then you can visit through `http://localhost:8080`
 
 You can also run with Docker, docker file is also ready
-#### Reset the database
+## Reset the database
 Each time restart the database will be reset
 ## Local Develop
 **Lombok** is being used. Plugin need to be installed if you want to develop with IDE.
